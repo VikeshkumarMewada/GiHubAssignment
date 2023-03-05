@@ -6,7 +6,7 @@ namespace test
 	{
 		static void main(string[] args)
 		{
-			
+			Console.WriteLine("Hello World from New External Program");
 		}
 	}
 }
